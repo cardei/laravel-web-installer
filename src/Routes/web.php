@@ -1,5 +1,5 @@
 <?php
-
+/** v-x01 */
 Route::group(['prefix' => 'install', 'as' => 'LaravelWebInstaller::', 'namespace' => 'Cardei\LaravelWebInstaller\Controllers', 'middleware' => ['web', 'install']], function () {
     Route::get('/', [
         'as' => 'welcome',
