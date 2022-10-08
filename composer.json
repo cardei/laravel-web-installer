@@ -1,5 +1,5 @@
 {
-    "name": "cardei/link-preview",
+    "name": "cardei/web-installer",
     "type": "library",
     "description": "Web Installer for Laravel apps",
     "keywords": ["php","installer","laravel"],
